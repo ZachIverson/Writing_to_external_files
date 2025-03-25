@@ -1,5 +1,5 @@
 #-----------------------------
-# file_interaction.py
+# writing_external_files.py
 #Zach Ignacio
 # Simple program to write static and user-inputted data to a file
 #-----------------------------
