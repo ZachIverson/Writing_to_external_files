@@ -1,0 +1,8 @@
+User Information:
+----------------
+Default Health: 100
+Default Level: 1
+Name: Zach
+Age: 18
+Hobby: coding
+----------------
